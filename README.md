@@ -14,7 +14,7 @@
     <li>Customer churn indicator (whether the customer left or stayed)</li>
   </ul>
 
-  The analysis aims to:
+  This analysis aims to:
   <ul>
     <li>Explore key factors influencing churn</li>
     <li>Visualize churn trends across different demographics</li>
