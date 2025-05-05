@@ -25,3 +25,5 @@
 ## Datastructure Overview
 
 <img width="725" alt="ER diagram" src="https://github.com/user-attachments/assets/f71b6551-53cb-49f4-9b4d-ae7015ffbed2" />
+
+## Executive Summary
