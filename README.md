@@ -21,3 +21,7 @@
     <li>Calculate churn rate and customer lifetime value metrics</li>
     <li>Propose actionable solutions for improving retention strategies</li>
   </ul>
+
+## Datastructure Overview
+
+<img width="725" alt="ER diagram" src="https://github.com/user-attachments/assets/f71b6551-53cb-49f4-9b4d-ae7015ffbed2" />
