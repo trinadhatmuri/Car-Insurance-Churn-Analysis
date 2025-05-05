@@ -7,3 +7,4 @@
 5. Recommendations.
 
 ## Background and Overview
+  This project focuses on analyzing customer churn patterns for a fictinal company nextGen Insurance Inc. The data available is synthetically generated to simulate real world auto insurance data.
