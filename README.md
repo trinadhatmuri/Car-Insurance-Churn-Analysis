@@ -27,3 +27,4 @@
 <img width="725" alt="ER diagram" src="https://github.com/user-attachments/assets/f71b6551-53cb-49f4-9b4d-ae7015ffbed2" />
 
 ## Executive Summary
+<img width="1022" alt="Dashboard" src="https://github.com/user-attachments/assets/4d37531d-0032-49c3-ae2e-15ea55e54a5c" />
