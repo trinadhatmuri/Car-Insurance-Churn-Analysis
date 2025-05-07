@@ -28,4 +28,5 @@
 
 ## Executive Summary
 
-<img width="1000" alt="Dashboard" src="https://github.com/user-attachments/assets/c06872e1-6ede-43eb-9366-4b8858aa575d" />
+<img width="1000" alt="Dashboard" src="https://github.com/user-attachments/assets/b4d19489-90de-4256-a3c1-2faa0a8627f7" />
+
