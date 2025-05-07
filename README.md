@@ -32,3 +32,5 @@ The analysis shows a 100% churn rate, with over 15,000 customers lost monthly an
 
 <img width="1000" alt="Dashboard" src="https://github.com/user-attachments/assets/b4d19489-90de-4256-a3c1-2faa0a8627f7" />
 
+## Insights Deep Dive
+
