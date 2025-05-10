@@ -34,4 +34,8 @@ The analysis shows a 100% churn rate, with over 15,000 customers lost monthly an
 
 ## Insights Deep Dive
 
-To start with 2022 has been the worst year for the nextGen Insurance. With the number of acquired customers equal to the number of churned customers, indicating a 100% churn rate.
+2022 has been a year of major changes for nextGen Insurance, starting from major policy changes to allocating higher marketing budgets had a significant impact on the insurance. 
+
+### Acquisitions
+  The average number of acquisitions over the last 5 years (2016 to 2021) was 5840 acquisitions, which sky rocketed to 7433 acquisitions per month in 2022.
+
