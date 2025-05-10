@@ -34,4 +34,4 @@ The analysis shows a 100% churn rate, with over 15,000 customers lost monthly an
 
 ## Insights Deep Dive
 
-To start with 2022 has been the worst year for the nextGen Insurance. 
+To start with 2022 has been the worst year for the nextGen Insurance. With the number of acquired customers equal to the number of churned customers, indicating a 100% churn rate.
