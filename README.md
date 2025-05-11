@@ -46,10 +46,20 @@ The analysis shows a 100% churn rate, with over 15,000 customers lost monthly an
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3f98fe18-a151-45b2-8abd-9efd37c9247e" alt="2019-21 acquisitions with avg" width="1281" height="398" style="display: block; margin-bottom: 10px;" />
-  <img src="https://github.com/user-attachments/assets/d8aba9b7-c077-4613-b9df-4356e4587966" alt="5 year acquisition with avg" width="1296" height="415" style="display: block; margin-bottom: 10px;" />
-  <img src="https://github.com/user-attachments/assets/6cb1238e-39f4-46af-a9f4-cc1c75abe10d" alt="2022 acquisition with avg" width="1127" height="281" style="display: block;" />
+  <img src="https://github.com/user-attachments/assets/3f98fe18-a151-45b2-8abd-9efd37c9247e" alt="2019-21 acquisitions with avg" width="1089" height="470" style="display: block;" />
+  <strong>November 2019 - November 2021</strong>
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d8aba9b7-c077-4613-b9df-4356e4587966" alt="5 year acquisition with avg" width="1101" height="490" style="display: block;" />
+  <strong>December 2016 - November 2021</strong>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6cb1238e-39f4-46af-a9f4-cc1c75abe10d" alt="2022 acquisition with avg" width="958" height="332" style="display: block;" />
+  <strong>December 2021 - November 2022</strong>
+</p>
+
 
 
 
