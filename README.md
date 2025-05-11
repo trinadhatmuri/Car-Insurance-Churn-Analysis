@@ -41,6 +41,12 @@ The analysis shows a 100% churn rate, with over 15,000 customers lost monthly an
   <li>The average number of acquisitions over the last 5 years (2016 to 2021) was 5840 acquisitions, which sky rocketed to 7433 acquisitions per month in 2022.</li>
   <li>If we look at the 5 year graph closely, we can see that from December 2016 to October 2019 the number of monthly acquisitions have been closely following the average line while once a year there is one peak month in the 2nd half of the year where the number of acquisitions at least doubles.</li>
   <li>From November 2019 we can see a downward trend which starts its revival from May 2021. In the timeline of this downward trend, we can only see two months which are above the average in the 2nd half of 2020. The average number of acquisitions for years 2019-2021 is down to 4542 compared to a healthy average acquisitions over a 5-year period.</li>
+  <li>For the current year (December 2021- November 2022) the average acquisitions is a whopping 19611 per month as a result of increased budget for marketing campaigns and introducing new customer offers from May 2022 to September 2022 which resulted in over 35k acquisitions for four month in a row. The data for November is incomplete and can be left out.</li>
 </ul>
-  
+
+<img width="1281" alt="2019-21 acquisitions with avg" src="https://github.com/user-attachments/assets/3f98fe18-a151-45b2-8abd-9efd37c9247e" />
+<img width="1296" alt="5 year acquisition with avg" src="https://github.com/user-attachments/assets/d8aba9b7-c077-4613-b9df-4356e4587966" />
+<img width="1127" alt="2022 acquisition with avg" src="https://github.com/user-attachments/assets/6cb1238e-39f4-46af-a9f4-cc1c75abe10d" />
+
+
 
