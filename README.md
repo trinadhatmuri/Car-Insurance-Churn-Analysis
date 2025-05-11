@@ -44,8 +44,7 @@ The analysis shows a 100% churn rate, with over 15,000 customers lost monthly an
   <li>For the current year (December 2021- November 2022) the average acquisitions is a whopping 19611 per month as a result of increased budget for marketing campaigns and introducing new customer offers from May 2022 to September 2022 which resulted in over 35k acquisitions for four month in a row. The data for November is incomplete and can be left out.</li>
 </ul>
 
-<img width="1281" alt="2019-21 acquisitions with avg" src="https://github.com/user-attachments/assets/3f98fe18-a151-45b2-8abd-9efd37c9247e" />
-<img width="1296" alt="5 year acquisition with avg" src="https://github.com/user-attachments/assets/d8aba9b7-c077-4613-b9df-4356e4587966" />
+<img width="1281" alt="2019-21 acquisitions with avg" src="https://github.com/user-attachments/assets/3f98fe18-a151-45b2-8abd-9efd37c9247e" /><br><img width="1296" alt="5 year acquisition with avg" src="https://github.com/user-attachments/assets/d8aba9b7-c077-4613-b9df-4356e4587966" />
 <img width="1127" alt="2022 acquisition with avg" src="https://github.com/user-attachments/assets/6cb1238e-39f4-46af-a9f4-cc1c75abe10d" />
 
 
