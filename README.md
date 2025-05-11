@@ -56,7 +56,7 @@ The analysis shows a 100% churn rate, with over 15,000 customers lost monthly an
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6cb1238e-39f4-46af-a9f4-cc1c75abe10d" alt="2022 acquisition with avg" width="1000" height="332" style="display: block;" />
+  <img src="https://github.com/user-attachments/assets/6cb1238e-39f4-46af-a9f4-cc1c75abe10d" alt="2022 acquisition with avg" width="1000" height="452" style="display: block;" />
   <strong>December 2021 - November 2022</strong>
 </p>
 
