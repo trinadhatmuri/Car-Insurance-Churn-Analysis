@@ -70,14 +70,16 @@ The analysis shows a 100% churn rate, with over 15,000 customers lost monthly an
   <li>It can also be noted that there is a high risk that a customer can churn within the first year. When we compare the Tenure with the insurance and the Age bins, we can clearly see that majority of the churned customers have an age of 50 or above and below 1 year with the insurance.  </li>
 </ul>
 
-<p align="center">
-  <img width="813" alt="Churn by Age" src="https://github.com/user-attachments/assets/5fb7f69c-7f66-4cae-9921-b7f452862abb" />
-  <strong>Churn by Age</strong>
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5fb7f69c-7f66-4cae-9921-b7f452862abb" width="800" alt="Churn by Age" />
+  <div><strong>Churn by Age</strong></div>
+</div>
 
-<p align="center">
-  <img width="896" alt="Tenure 0, 1, 17 and age vs churn" src="https://github.com/user-attachments/assets/0d10eaac-2458-40eb-a175-25763a1392ad" />
-  <strong>Churn for Tenure 0, 1 and 17 Years</strong>
-</p>
+<br>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/0d10eaac-2458-40eb-a175-25763a1392ad" width="800" alt="Churn for Tenure 0, 1 and 17 Years" />
+  <div><strong>Churn for Tenure 0, 1 and 17 Years</strong></div>
+</div>
 
 
