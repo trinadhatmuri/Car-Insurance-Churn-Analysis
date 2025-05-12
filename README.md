@@ -82,4 +82,12 @@ The analysis shows a 100% churn rate, with over 15,000 customers lost monthly an
   <div><strong>Churn for Tenure 0, 1 and 17 Years</strong></div>
 </div>
 
+### Demographics
+
+<ul>
+  <li>Churn rates appear to be higher in the income brackets of $50,000 to $100,000, with the most churned customers in the income range of $87,500 to $125,000.</li>
+  <li>Customers who own homes show a significantly higher churn rate compared to non-homeowners, with a large percentage of churned customers in the income range of $100,000 to $150,000.</li>
+  <li>Churned customers with higher education (college degree) show a higher churn rate, especially in income brackets above $50,000.</li>
+  <li>Churned customers with good credit also show a higher churn rate, particularly in the income ranges above $50,000.</li>
+</ul>
 
