@@ -91,10 +91,15 @@ The analysis shows a 100% churn rate, with over 15,000 customers lost monthly an
   <li>Churned customers with good credit also show a higher churn rate, particularly in the income ranges above $50,000.</li>
 </ul>
 
-<img width="977" alt="Demo stats" src="https://github.com/user-attachments/assets/d9795ba2-444d-41cf-98fa-f40fb5eb768d" />
+<p align="center">
+  <img width="977" alt="Demo stats" src="https://github.com/user-attachments/assets/d9795ba2-444d-41cf-98fa-f40fb5eb768d" />
+  <strong>Demographic Statistics</strong>
+</p>
 
-<img width="977" alt="income vs churn" src="https://github.com/user-attachments/assets/5fa747c0-6ba6-4c3b-a24e-e187c6c518b6" />
-
+<p align="center">
+  <img width="977" alt="income vs churn" src="https://github.com/user-attachments/assets/5fa747c0-6ba6-4c3b-a24e-e187c6c518b6" />
+  <strong>Churn by Income Levels</strong>
+</p>
 
 
 
