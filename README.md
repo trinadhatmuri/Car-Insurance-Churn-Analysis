@@ -61,7 +61,7 @@ The analysis shows a 100% churn rate, with over 15,000 customers lost monthly an
 </p>
 
 
-### Churned Customers
+### Churned Customers:
 
 <ul>
   <li>This analysis covers the churn data from December 2021 to November 2022.</li>
@@ -82,7 +82,7 @@ The analysis shows a 100% churn rate, with over 15,000 customers lost monthly an
   <div><strong>Churn for Tenure 0, 1 and 17 Years</strong></div>
 </div>
 
-### Demographics
+### Demographics:
 
 <ul>
   <li>Churn rates appear to be higher in the income brackets of $50,000 to $100,000, with the most churned customers in the income range of $87,500 to $125,000.</li>
@@ -102,6 +102,15 @@ The analysis shows a 100% churn rate, with over 15,000 customers lost monthly an
 </p>
 
 
+### Recommendations:
 
+Based on the uncovered insights, the following recommendations are provided:
 
+<ul>
+  <li>Introduce structured engagement programs (welcome kits, regular policy reviews, loyalty incentives) focused on new customers in their first 12 months, as this group shows the highest churn risk.</li>
+  <li>Develop tailored insurance products and communication for the 45–55 age group, the highest-churning segment, focusing on their needs like health benefits, retirement support, and family protection plans.</li>
+  <li>Since most churn occurs in the $85,000–$125,000 income range, evaluate whether pricing or benefits within this tier align with customer expectations. Consider introducing mid-tier flexible plans or added-value services.</li>
+  <li>Invest in educating new customers—especially those with college degrees and good credit—about the long-term benefits of their policy, usage options, and additional perks, to reduce early dissatisfaction and churn.</li>
+  <li>Rather than maximizing volume, recalibrate marketing strategies to attract individuals with historically higher retention patterns, such as those under 45 or with longer residential tenure, to improve long-term profitability.</li>
+</ul>
 
