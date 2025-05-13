@@ -22,6 +22,8 @@
     <li>Propose actionable solutions for improving retention strategies</li>
   </ul>
 
+  An interactive Tableau dashboard can be viewed here <a href="https://public.tableau.com/app/profile/trinadh.atmuri/viz/Book1_17463238783600/CarInsuranceChurnDashboard">Link</a>
+
 ## Datastructure Overview
 
 <img width="725" alt="ER diagram" src="https://github.com/user-attachments/assets/f71b6551-53cb-49f4-9b4d-ae7015ffbed2" />
