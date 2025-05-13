@@ -22,7 +22,9 @@
     <li>Propose actionable solutions for improving retention strategies</li>
   </ul>
 
-  An interactive Tableau dashboard can be viewed here <a href="https://public.tableau.com/app/profile/trinadh.atmuri/viz/Book1_17463238783600/CarInsuranceChurnDashboard">Link</a>
+  An interactive Tableau dashboard can be viewed <a href="https://public.tableau.com/app/profile/trinadh.atmuri/viz/Book1_17463238783600/CarInsuranceChurnDashboard">here</a>
+
+  The raw dataset used can be found <a href="https://www.kaggle.com/datasets/merishnasuwal/auto-insurance-churn-analysis-dataset?select=autoinsurance_churn.csv">here</a>
 
 ## Datastructure Overview
 
